@@ -1,0 +1,79 @@
+body{
+	background-image: url(../image/bg.jpg)
+}
+.header{
+    color: #fff;
+    font-size: 42px;
+    position: relative;
+    margin-top:1%;
+    text-align: center;
+}
+.content{
+	color: #fff;
+    font-size: 21px;
+    position: relative;
+    margin-top:1%;
+	margin-bottom:1%;
+    text-align: center;
+}
+.button{
+	margin:2%;
+	 text-decoration:none; 
+     text-align:center; 
+     padding:15px 46px; 
+     border:solid 1px #0b1012; 
+     -webkit-border-radius:6px;
+     -moz-border-radius:6px; 
+     border-radius: 6px; 
+     font:26px "Courier New", Courier, monospace; 
+     font-weight:bold; 
+     color:#e1e3a6; 
+     background-color:#272b27; 
+     background-image: -moz-linear-gradient(top, #272b27 0%, #262625 100%); 
+     background-image: -webkit-linear-gradient(top, #272b27 0%, #262625 100%); 
+     background-image: -o-linear-gradient(top, #272b27 0%, #262625 100%); 
+     background-image: -ms-linear-gradient(top, #272b27 0% ,#262625 100%); 
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#262625', endColorstr='#262625',GradientType=0 ); 
+     background-image: linear-gradient(top, #272b27 0% ,#262625 100%);   
+     -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+     -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+     box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+}
+.funcional{
+text-align: center;
+}
+.test{
+}
+.navigate{
+	color: #fff;
+    font-size: 21px;
+    position: relative;
+    margin-top:1%;
+	margin-bottom:1%;
+    text-align: center;
+}
+
+input[type=text]{
+    height:30px;
+	width: 20%;
+}
+input[type=password]{
+    height:30px;
+	width: 20%;
+}
+a:hover{
+	color: #e1e3a6;
+	font-style: italic;
+}
+a{text-decoration:none;
+	color: #f8f8ff;
+}
+table
+{
+   font-family:florence, cursive;
+   text-align: center;
+    margin: auto;
+}
+::-webkit-input-placeholder {
+   text-align: center;
+}
